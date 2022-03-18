@@ -1,0 +1,22 @@
+{
+  "name": "unicorn-css",
+  "version": "1.0.0",
+  "description": "A very simple CSS framework for personal projects",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dherault/unicorn-css.git"
+  },
+  "keywords": [
+    "CSS"
+  ],
+  "author": "David Hérault <dherault@gmail.com> (https://github.com/dherault)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dherault/unicorn-css/issues"
+  },
+  "homepage": "https://github.com/dherault/unicorn-css#readme"
+}
